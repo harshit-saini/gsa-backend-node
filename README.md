@@ -4,7 +4,7 @@
 
 [See the react project here](gsa-front.herokuapp.com)
 
-[Github for the react project is here](https://github.com/harshit-saini/gsa-frontend)
+[Github for the react project is here](https://github.com/harshit-saini/gsa-frontend-react)
 
 ---
 
